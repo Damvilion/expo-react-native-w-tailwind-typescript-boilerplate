@@ -4,7 +4,8 @@ Run NPM Install
 
 Tailwind (Native Wind Docs) -> https://www.nativewind.dev/
 
----- Development Environment ----
+---- Development Environment ---- <br>
+
 Windows with iPhone App (Expo Go) run -> expo-cli start --tunnel
 
 Windows/Mac with Android run -> npx expo start --android
