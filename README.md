@@ -6,7 +6,7 @@ Tailwind (Native Wind Docs) -> https://www.nativewind.dev/
 
 ---- Development Environment ---- <br>
 
-Windows with iPhone App (Expo Go) run -> expo-cli start --tunnel
+Windows with iPhone App (Expo Go) run -> npx expo start --tunnel
 
 Windows/Mac with Android run -> npx expo start --android
 
