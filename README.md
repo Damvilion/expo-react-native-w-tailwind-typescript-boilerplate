@@ -1,6 +1,6 @@
 # expo-react-native-w-tailwind-typescript-boilerplate
 
-Run npx expo install
+Run npm install
 
 Tailwind (Native Wind Docs) -> https://www.nativewind.dev/
 
