@@ -8,7 +8,7 @@ const StyledText = styled(Text);
 export default function App() {
     return (
         <StyledSafeArea className='flex bg-[#fff] items-center justify-center'>
-            <StyledText className='text-red-600 text-4xl text-center p-5'>Expo With TypeScript and Tailwind</StyledText>
+            <StyledText className='text-red-600 text-4xl text-center p-5'>Expo With TypeScript and Tailwind CSS</StyledText>
         </StyledSafeArea>
     );
 }
